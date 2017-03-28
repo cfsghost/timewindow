@@ -1,6 +1,6 @@
 {
   "name": "timewindow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "collect all records that fall within the time window",
   "main": "index.js",
   "scripts": {
