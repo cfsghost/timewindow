@@ -1,0 +1,23 @@
+{
+  "name": "timewindow",
+  "version": "1.0.0",
+  "description": "collect all records that fall within the time window",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfsghost/timewindow.git"
+  },
+  "keywords": [
+    "time",
+    "window"
+  ],
+  "author": "Fred Chien <cfsghost@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cfsghost/timewindow/issues"
+  },
+  "homepage": "https://github.com/cfsghost/timewindow#readme"
+}
